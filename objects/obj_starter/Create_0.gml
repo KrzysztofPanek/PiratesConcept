@@ -1,0 +1,1 @@
+global.enemy=0;

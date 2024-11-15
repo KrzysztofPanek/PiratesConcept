@@ -1,0 +1,1 @@
+draw_text(30,100,string(global.enemy));

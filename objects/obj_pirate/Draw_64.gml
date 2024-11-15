@@ -1,0 +1,1 @@
+draw_text(x,y-64,string(hp))
